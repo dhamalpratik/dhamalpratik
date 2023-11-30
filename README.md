@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhamalpratik
+- 👋 Hi, I’m Pratik
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning Rest Assured
 - 📫 How to reach me 
